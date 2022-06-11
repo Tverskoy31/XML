@@ -1,0 +1,10 @@
+{
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+<fio>Медведев Евгений Павлович</fio>
+   <author>Erik T. Ray</author>
+   <age>34</age>
+ <home animals>no</home animals>
+ <zarplata>2500$</zarplata>
+</data>
+}
