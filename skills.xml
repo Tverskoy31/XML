@@ -1,0 +1,9 @@
+{<?xml version="1.0" encoding="utf-8"?>
+<data>
+<testing theory>Виды,техники,когда и как применяеться</testing theory>
+   <test api>Postman</test api>
+   <traffic interception>Fiddler,Charles</traffic interception>
+ <git>GitBash,Github</git>
+ <data base>MySQL</data base>
+</data>
+}
